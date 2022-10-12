@@ -9,6 +9,6 @@ public class Power {
     }
 
     public static void main(String[] args) {
-        new Power().printPower(0, 3);
+     new Power().printPower(10, 3);  	// this call the method and print what ever the method print
     }
 }
